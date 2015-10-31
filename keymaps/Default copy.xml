@@ -14,7 +14,8 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
-  <action id="SurroundWithEmmet">
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="SwitchApply">
