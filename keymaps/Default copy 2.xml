@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+</keymap>
