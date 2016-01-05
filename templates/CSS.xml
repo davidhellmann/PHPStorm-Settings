@@ -1,5 +1,5 @@
 <templateSet group="CSS">
-  <template name="c" value="/* --------------------------------------------------&#10;                                                    &#10;   $TEXT$                                                   &#10;   -------------------------------------------------- */&#10;&#10;$CURSOR$" description="Comment" toReformat="false" toShortenFQNames="true">
+  <template name="c" value="/* --------------------------------------------------&#10;                                                    &#10;   $TEXT$                                                   &#10;   -------------------------------------------------- */&#10;$CURSOR$" description="Comment" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
