@@ -20,23 +20,51 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="extends" value="{% extends '$SELECTION$' %}" toReformat="false" toShortenFQNames="true">
+  <template name="extends" value="{% extends 'template' %}" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="inc" value="{% include '$SELECTION$' %}" toReformat="false" toShortenFQNames="true">
+  <template name="inc" value="{% include 'template' %}" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="incp" value="{% include '$SELECTION$' with {&#10;  $KEY$: '$VALUE$'&#10;}} %}" toReformat="false" toShortenFQNames="true">
-    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="incp" value="{% include 'template' with {&#10;  key: 'value'&#10;}} %}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="set" value="{% set var = value %}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="setb" value="{% set var %}&#10;  $END$&#10;{% endset %}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="block" value="{% block name %}&#10;  $END$&#10;{% endblock %}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="filter" value="{% filter $bla$, $blub$ %}&#10;  $END$&#10;{% endfilter %}" toReformat="false" toShortenFQNames="true">
+    <variable name="bla" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="blub" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
