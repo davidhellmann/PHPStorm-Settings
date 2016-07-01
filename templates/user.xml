@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="asdasds" value="    asdasdsadad" description="asd" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="test" description="asd" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
 </templateSet>
