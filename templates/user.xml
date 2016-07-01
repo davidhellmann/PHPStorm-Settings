@@ -1,5 +1,9 @@
 <templateSet group="user">
-  <template name="test" value="test" description="asd" toReformat="false" toShortenFQNames="true">
-    <context />
+  <template name=".test" value="*[$ABBR$]: $TEXT$&#10;$END$" description="test *[]:" toReformat="false" toShortenFQNames="false">
+    <variable name="ABBR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
   </template>
 </templateSet>
