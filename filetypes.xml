@@ -5,6 +5,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping pattern="m-nav--main" type="Twig" />
       <mapping ext="html" type="Twig" />
       <mapping ext="rss" type="XML" />
     </extensionMap>
