@@ -1,5 +1,7 @@
 <templateSet group="PHP">
   <template name="php" value="&lt;?php $END$ ?&gt;" description="&lt;?php ?&gt;" toReformat="false" toShortenFQNames="true">
-    <context />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
   </template>
 </templateSet>
