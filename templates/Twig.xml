@@ -1,0 +1,9 @@
+<templateSet group="Twig">
+  <template name="bc" value="{#&#10;  $TITLE$&#10;  --------------------------------------------------&#10;&#10;  $DESC$&#10;#}&#10;&#10;$END$" description="blockcomment" toReformat="true" toShortenFQNames="false">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
