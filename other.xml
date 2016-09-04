@@ -54,9 +54,17 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.3.1/bin/node">
+      <version-cache version="6.3.1" last-modified="1469133275000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.11.0/bin/node">
+      <version-cache version="5.11.0" last-modified="1461260217000" />
+    </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="4.2.1" last-modified="1444756414000" />
+    <node-interpreter path="/usr/local/bin/node" version="(Does not exist)" last-modified="1472948283346" />
   </component>
 </application>
