@@ -8,6 +8,11 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="ctrl w" />
