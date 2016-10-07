@@ -1,5 +1,0 @@
-<templateSet group="testtest">
-  <template name="asdasda" value="asd" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
-</templateSet>
