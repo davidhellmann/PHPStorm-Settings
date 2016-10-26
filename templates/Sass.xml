@@ -1,5 +1,5 @@
 <templateSet group="Sass">
-  <template name="for" value="@for $i from $FROM$ through $TO$ {&#10;    &amp;--#{$i} {&#10;        $END$&#10;    }&#10;}" description="For Loop" toReformat="false" toShortenFQNames="true">
+  <template name="for" value="@for $i from $FROM$ through $TO$ {&#10;  &amp;--#{$i} {&#10;    $END$&#10;  }&#10;}" description="For Loop" toReformat="false" toShortenFQNames="true">
     <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TO" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
