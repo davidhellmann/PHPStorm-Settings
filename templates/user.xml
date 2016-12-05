@@ -1,6 +1,6 @@
 <templateSet group="user">
-  <template name="co" value="//  --------------------------------------------------------&#10;//  $TITLE$&#10;//  --------------------------------------------------------&#10;&#10;$END$" description="Comment Block" toReformat="false" toShortenFQNames="true">
-    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="co" value="/*--------------------------------------------------&#10;    $TEXT$&#10;  --------------------------------------------------*/&#10;&#10;$END$" description="Comment Block" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
