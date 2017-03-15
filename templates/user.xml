@@ -1,10 +1,8 @@
 <templateSet group="user">
-  <template name="co" value="/*  --------------------------------------------------&#10;    $TEXT$&#10;  --------------------------------------------------*/&#10;&#10;$END$" description="Comments" toReformat="false" toShortenFQNames="true">
+  <template name="co" value="/* -------------------------------------------------- */&#10;/*    $TEXT$&#10;/* -------------------------------------------------- */&#10;&#10;$END$" description="Comment Block" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="CSS" value="true" />
-      <option name="PHP" value="true" />
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>

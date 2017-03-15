@@ -1,4 +1,4 @@
-<templateSet group="Sass">
+<templateSet group="Scss">
   <template name="for" value="@for $i from $FROM$ through $TO$ {&#10;  .$CLASS_NAME$--#{$i} {&#10;    width: calc(100px * #{$i});$END$&#10;  }&#10;}" description="For Loop" toReformat="false" toShortenFQNames="true">
     <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TO" expression="" defaultValue="" alwaysStopAt="true" />
@@ -7,13 +7,13 @@
       <option name="CSS" value="true" />
     </context>
   </template>
-  <template name="if" value="@if $VAR$ {&#10;  $END$&#10;}" description="If Else" toReformat="false" toShortenFQNames="true">
+  <template name="ife" value="@if $VAR$ {&#10;  $END$&#10;} @else {&#10;  &#10;}" description="If Else" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="true" />
     </context>
   </template>
-  <template name="ife" value="@if $VAR$ {&#10;  $END$&#10;} @else {&#10;  &#10;}" description="If Else" toReformat="false" toShortenFQNames="true">
+  <template name="if" value="@if $VAR$ {&#10;  $END$&#10;}" description="If Else" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="true" />

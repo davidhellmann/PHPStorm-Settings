@@ -16,9 +16,6 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="ctrl w" />
