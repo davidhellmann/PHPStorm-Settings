@@ -11,8 +11,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.hbs</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*</mask>
       <mask>*.l</mask>
@@ -34,6 +32,8 @@
       <mask>*.scss</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
