@@ -11,6 +11,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="html" type="Twig" />
       <mapping ext="rss" type="XML" />
+      <mapping ext="md" type="YouTrack" />
     </extensionMap>
   </component>
 </application>
