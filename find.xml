@@ -16,12 +16,18 @@
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>b</mask>
+      <mask>bl</mask>
+      <mask>blad</mask>
+      <mask>blade</mask>
+      <mask>*.blade</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
