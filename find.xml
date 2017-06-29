@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
       <mask>*.hbs</mask>
       <mask>*.ph</mask>
       <mask>*</mask>
@@ -15,7 +15,6 @@
       <mask>*.htm</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.s</mask>
       <mask>*.te</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
@@ -23,17 +22,19 @@
       <mask>*.jso</mask>
       <mask>*.jtw</mask>
       <mask>*.jt</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.jsc</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
