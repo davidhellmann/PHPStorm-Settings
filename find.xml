@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.hbs</mask>
       <mask>*.ph</mask>
@@ -25,7 +26,6 @@
       <mask>*.twig</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
-      <mask>*.html</mask>
       <mask>*.jsc</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -34,6 +34,7 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
