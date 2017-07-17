@@ -126,66 +126,6 @@
           <option name="groupName" value="PHP" />
           <option name="key" value="prisf" />
         </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".abbreviation" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".link" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".codefence" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".image" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".rlink" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".rimage" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".reference" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".footnote" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".rfootnote" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".task" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".table" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".toc" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".wikilink" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".emoji" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Markdown" />
-          <option name="key" value=".collapsed" />
-        </TemplateKey>
       </list>
     </option>
   </component>
