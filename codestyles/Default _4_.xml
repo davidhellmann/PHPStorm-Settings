@@ -1,5 +1,4 @@
 <code_scheme name="Default (4)">
-  <option name="HTML_KEEP_WHITESPACES" value="true" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
@@ -7,12 +6,4 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <codeStyleSettings language="Twig">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
