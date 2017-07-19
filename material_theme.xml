@@ -5,6 +5,7 @@
     <option name="highlightColorEnabled" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="customTreeIndent" value="8" />
+    <option name="hideFileIcons" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
   </component>
