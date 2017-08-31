@@ -12,6 +12,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="html" type="Twig" />
+      <removed_mapping ext="vue" approved="true" type="Vue" />
       <mapping ext="rss" type="XML" />
       <mapping ext="md" type="YouTrack" />
     </extensionMap>
