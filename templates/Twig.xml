@@ -6,4 +6,13 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="mod" value="{% include '$TYPE$/$NAME$/_template.html' with {&#10;    opt: {&#10;      modifiers: [],&#10;      data: {},&#10;      js: null,&#10;      waypoint: null,&#10;      waypointAni: null&#10;    }&#10;} only %}&#10;&#10;$CURSOR$" description="Template Include" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
