@@ -6,4 +6,23 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="mod" value="{# -- $NAME$ -- #}&#10;{% include '$TYPE$/$NAME$/_template.html' with {&#10;    opt: {&#10;      $FOO$: $BAR$&#10;    }&#10;} only %}&#10;&#10;$CURSOR$" description="Template Include" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="mod-headline" value="{# -- Headline -- #}&#10;{% include '_atoms/headline/_template.html' with {&#10;    opt: {&#10;      text: '$TEXT$',&#10;      size: 'h2'&#10;    }&#10;} only %}&#10;&#10;$CURSOR$" description="Template Include" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
