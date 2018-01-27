@@ -11,8 +11,7 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="meta alt t" />
+  <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="SwitchApply">
