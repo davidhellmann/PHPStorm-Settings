@@ -6,7 +6,7 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="mod" value="{# -- $NAME$ -- #}&#10;{% include '$TYPE$/$NAME$/_template.html' with {&#10;    opt: {&#10;      $FOO$: $BAR$&#10;    }&#10;} only %}&#10;&#10;$CURSOR$" description="Template Include" toReformat="false" toShortenFQNames="true">
+  <template name="mod" value="{# -- $NAME$ -- #}&#10;{% include '$TYPE$/$NAME$/_template.html' with {&#10;    opt: {&#10;      $FOO$: $BAR$&#10;    }&#10;} only %}&#10;ssss&#10;$CURSOR$" description="Template Include" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FOO" expression="" defaultValue="" alwaysStopAt="true" />
