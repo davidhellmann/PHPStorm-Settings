@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.3.0" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
@@ -8,11 +8,10 @@
     <option name="isContrastMode" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="customTreeIndent" value="4" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
     <option name="customSidebarHeight" value="22" />
+    <option name="userId" value="-2c9007da:164d3be2bce:-7fff" />
   </component>
 </application>
