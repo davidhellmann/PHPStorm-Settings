@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.7.0" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
@@ -18,7 +18,5 @@
     <option name="compactDropdowns" value="true" />
     <option name="userId" value="-7d770a07:164ea40dc6c:-7fff" />
     <option name="allowDataCollection" value="true" />
-    <option name="isHighContrast" value="true" />
-    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
