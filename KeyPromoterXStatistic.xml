@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -46,7 +46,7 @@
           <IdeaActionID>com.sonnk.iterm.OpenCmd</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Terminal</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
