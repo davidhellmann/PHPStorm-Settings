@@ -46,7 +46,7 @@
           <IdeaActionID>com.sonnk.iterm.OpenCmd</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Terminal</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
