@@ -377,13 +377,13 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="cache" value="{% cache %}&#10;  $END$&#10;{% endcache %}" toReformat="false" toShortenFQNames="true">
+  <template name="cache" value="{% cache %}&#10;  $END$&#10;{% endcache %}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="endcache" value="{% endcache %}&#10;  $END$" toReformat="false" toShortenFQNames="true">
+  <template name="endcache" value="{% endcache %}&#10;  $END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="Twig" value="true" />
