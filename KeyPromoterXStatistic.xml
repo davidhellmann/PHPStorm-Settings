@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>420</Count>
+          <Count>424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>com.sonnk.iterm.OpenCmd</IdeaActionID>
           <ShortCut>'⇧⌘I'</ShortCut>
           <Description>Terminal</Description>
-          <Count>137</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
