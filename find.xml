@@ -13,5 +13,8 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*.twig</mask>
+    <mask>*.scss</mask>
+    <mask>*.jade</mask>
   </component>
 </application>
