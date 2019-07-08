@@ -9,6 +9,7 @@
       <mapping pattern="rsync_pass" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="html" type="Twig" />
       <mapping ext="rss" type="XML" />
