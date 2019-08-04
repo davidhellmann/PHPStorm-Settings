@@ -3,20 +3,23 @@
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
+    <option name="darkTitleBar" value="false" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="customSidebarHeight" value="22" />
     <option name="tabOpacity" value="47" />
     <option name="highlightThickness" value="4" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="56" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="ffe600" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-7d770a07:164ea40dc6c:-7fff" />
-    <option name="version" value="3.8.0.2" />
+    <option name="version" value="4.2.2" />
   </component>
 </application>
