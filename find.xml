@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="CRAFT Working Files" />
-    <option name="defaultScopeName" value="CRAFT Working Files" />
-    <option name="SEARCH_SCOPE" value="CRAFT Working Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.twig" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -14,9 +14,9 @@
     <mask>*.yaml</mask>
     <mask>*.jade</mask>
     <mask>*.php</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
     <mask>*.twig</mask>
   </component>
 </application>
