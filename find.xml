@@ -15,9 +15,9 @@
     <mask>*.jade</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.pcss</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
     <mask>*.twig</mask>
   </component>
 </application>
