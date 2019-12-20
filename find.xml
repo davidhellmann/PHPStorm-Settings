@@ -3,7 +3,6 @@
     <option name="customScope" value="CRAFT" />
     <option name="defaultScopeName" value="CRAFT" />
     <option name="SEARCH_SCOPE" value="CRAFT" />
-    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
