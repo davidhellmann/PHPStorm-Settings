@@ -18,9 +18,9 @@
     <mask>*.md</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.html</mask>
     <mask>*.twig</mask>
   </component>
 </application>
